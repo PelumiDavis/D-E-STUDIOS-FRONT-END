@@ -1,0 +1,171 @@
+*{ 
+    margin: 0;
+    padding: 0;
+}
+.menu{
+    position: absolute;
+    margin-left: 150px;
+    bottom: 6px;
+}
+.brand{
+    border-right: solid 1px aqua; height: 4px;
+    position: relative;
+    top: 6px;
+    color: black;
+}
+.dp{
+    background-color: aliceblue;
+}
+.linkone{
+    text-decoration: none;
+    color: black;
+}
+.linkone:hover{
+    background-color: whitesmoke;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    color: darkcyan;
+}
+.linktwo:hover{
+    background-color: #9ea2a2;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    background-color: whitesmoke;
+    color: darkcyan;
+}
+.linktwo{
+    position: relative;
+    left: 30px;
+    text-decoration: none;
+    color: black;
+}
+.linkthree{
+    position: relative;
+    left: 60px;
+    text-decoration: none;
+    color: black;
+}
+.linkthree:hover{
+    background-color: #9ea2a2;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    background-color: whitesmoke;
+    color: darkcyan;
+}
+.ip{
+    left: 980px;
+    position: relative;
+    top: 9px;
+}
+.linkfour{
+    position: relative;
+    left: 669px;
+    text-decoration: none;
+    color: black;
+}
+.go{
+    position: relative;
+    top: 6px;
+    right: 190px;
+}
+.linkfour:hover{
+    background-color: #9ea2a2;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    background-color: whitesmoke;
+    color: darkcyan;
+}
+.tdd{
+    color: #0755ff;
+    animation: tex infinite;
+}
+.reg{
+    color: #000;
+}
+.strong{
+    color: black;
+}
+a.read-moreone,a.read-moretwo{
+    color: #540101;
+    text-decoration: underline;
+}
+.fa{
+    color: #20c997;
+}
+.tech{
+    margin-right: 690px;
+    border: solid wheat 1px;
+    position: relative;
+    background: linear-gradient(lightblue, burlywood);
+}
+.fashion{
+    margin-right: 690px;
+    border: solid wheat 1px;
+    position: relative;
+    bottom: 178px;
+    left: 675px;
+    height: 139px;
+    background: linear-gradient(antiquewhite, #00ffec);
+}
+.sdd,.tdd{
+    font-family: 'AR CHRISTY Medium';
+}
+.sdd{
+    color: #ffaf00;
+}
+.author-dateone,.author-datetwo{
+    font-family: 'Forte Regular';
+}
+.fp{
+    margin-left: 500px;
+    margin-right: 500px;
+    border: solid 2px black;
+    background: linear-gradient(lightblue, lawngreen);
+}
+.spart{
+    color: #888;
+    background: whitesmoke;
+    position: relative;
+    bottom: 165px;
+    right: 79px;
+    width: 960px;
+    margin: 0 auto;
+    padding: 50px 0;
+    outline: lavender 5px solid;
+    box-shadow: 15px 3px 2px lavender;
+}
+.lp{
+    color: yellow;
+    position: relative;
+    bottom: 0px;
+    right: 0px;
+    /* width: 960px; */
+    margin: 0 auto;
+    margin: 0 0 0 0;
+    background: linear-gradient(green, red);
+}
+.aheader{
+    text-shadow: 9px 2px 4px;
+}
+.sidebar-item{
+    list-style-type: none;
+    color: green;
+}
+.sidebar{
+    align-content: right;
+    bottom: 1599px;
+    position: relative;
+    right: 30px;
+    border-left: solid 5px deepskyblue;
+    position: relative;
+    height: 900px;
+    overflow: auto;  
+}

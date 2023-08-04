@@ -1,0 +1,26 @@
+.box{
+    margin: 600px;
+    background: linear-gradient(blue, yellow);
+    position: relative;
+    padding: 9px;
+}
+.r{
+    position: relative;
+    bottom: 500px;
+}
+.l{
+    position: relative;
+    bottom: 500px;
+}
+.a{
+    background: linear-gradient(green, yellow);
+}
+.b{
+    background: linear-gradient(blue, yellow);
+}
+.c{
+    background: linear-gradient(darkslategray, yellow);
+}
+.d{
+    background: linear-gradient(rebeccapurple, deepskyblue);
+}

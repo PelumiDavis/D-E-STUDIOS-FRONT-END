@@ -1,0 +1,432 @@
+@media screen and (min-width: 600px) {
+.body{
+    background: #2722;
+    font: bold;
+}
+.Glory{
+    font-family: 'Goudy Stout Regular';
+    text-align: center;
+    font-size: medium;
+    color: darkslategray;
+}
+.description{
+    font-family: 'AR DELANEY Medium';
+    font-size: small;
+    text-align: center;
+    border: 3px solid orangered;
+    margin-right: 50px;
+    margin-left: 50px;
+    border-radius: 6px;
+    padding-top: 5px;
+    color: black;
+}
+.ddiv{
+    padding-bottom: 69px;
+}
+.main{
+    font-family: 'Berlin Sans FB';
+    font-style: bold;
+    color: #22323c;
+    position: relative;
+    bottom: 80px;
+}
+.since{
+    text-align: center;
+    margin-left: 260px;
+    position: relative;
+    bottom: 5px;
+    color: darkslategray;
+    font-family: 'cooper black';
+}
+.idhr{
+    position: relative;
+    bottom: 76px;
+}
+.admition{
+    color: #008b8b;
+    background: linear-gradient(goldenrod, gold);
+    border: 2px azure solid;
+    border-radius: 5px;
+}
+.admition:hover{
+    color: dodgerblue;
+}
+.admition:visited{
+    color: linear-gradient(#00ffb3, #008000, #0000ff, alpha);
+    border: 2px azure solid;
+    border-radius: 5px;
+}
+.admition:active{
+    color: blue;
+}
+.secondbody{
+    position: relative;
+    bottom: 69px;
+    font-family: 'Berlin Sans FB';
+}
+n{
+   color: #ff0000;
+}
+.shr{
+    position: relative;
+    bottom: 50px;
+}
+.numbers{
+    position: relative;
+    bottom: 60px;
+    font-family: 'AR ESSENCE Medium';
+    left: 220px;
+}
+.nhr{
+    position: relative;
+    bottom: 69px;
+    left: 182px;
+}
+.contact-nums{
+    position: relative;
+    bottom: 69px;
+}
+.phone{
+    color: brown;
+}
+.end{
+    position: relative;
+    left: 120px;
+    margin-bottom: 0px;
+}
+.lhr{
+    position: relative;
+    left: 160px;
+    margin-bottom: 0px;
+}
+.links{
+    background-color: lightcyan;
+}
+.school{
+    text-decoration: none;
+}
+.sports{
+    text-decoration: none;
+    position: relative;
+    left: 90px;
+}
+.achievments{
+    text-decoration: none;
+    position: relative;
+    left: 180px;
+}
+.app{
+    text-decoration: none;
+    position: relative;
+    left: 270px;
+}
+.school{
+    text-decoration: none;
+}
+.school{
+    text-decoration: none;
+}
+.up-text{
+    position: relative;
+    bottom: 30px;
+    left: 200px;
+}
+.text{
+    position: relative;
+    bottom: 40px;
+}
+.submit{
+    position: relative;
+    bottom: 40px;
+    left: 500px;
+}
+}
+@media screen and (min-width: 900px){
+.body{
+    background: #2722;
+    font: bold;
+}
+.Glory{
+    font-family: 'Goudy Stout Regular';
+    text-align: center;
+    font-size: medium;
+    color: darkslategray;
+}
+.description{
+    font-family: 'AR DELANEY Medium';
+    font-size: small;
+    text-align: center;
+    border: 3px solid orangered;
+    margin-right: 90px;
+    margin-left: 50px;
+    border-radius: 6px;
+    padding-top: 5px;
+    color: yellow;
+}
+.ddiv{
+    padding-bottom: 69px;
+}
+.main{
+    font-family: 'Berlin Sans FB';
+    font-style: bold;
+    color: #22323c;
+    position: relative;
+    bottom: 80px;
+}
+.since{
+    text-align: center;
+    margin-left: 290px;
+    position: relative;
+    bottom: 5px;
+    color: darkslategray;
+    font-family: 'cooper black';
+}
+.idhr{
+    position: relative;
+    bottom: 76px;
+}
+.admition{
+    color: #008b8b;
+    background: linear-gradient(goldenrod, gold);
+    border: 2px azure solid;
+    border-radius: 5px;
+}
+.admition:hover{
+    color: dodgerblue;
+}
+.admition:visited{
+    color: linear-gradient(#00ffb3, #008000, #0000ff, alpha);
+    border: 2px azure solid;
+    border-radius: 5px;
+}
+.admition:active{
+    color: blue;
+}
+.secondbody{
+    position: relative;
+    bottom: 69px;
+    font-family: 'Berlin Sans FB';
+}
+n{
+   color: #ff0000;
+}
+.shr{
+    position: relative;
+    bottom: 50px;
+}
+.numbers{
+    position: relative;
+    bottom: 60px;
+    font-family: 'AR ESSENCE Medium';
+    left: 220px;
+}
+.nhr{
+    position: relative;
+    bottom: 69px;
+    left: 182px;
+}
+.contact-nums{
+    position: relative;
+    bottom: 69px;
+}
+.phone{
+    color: brown;
+}
+.end{
+    position: relative;
+    left: 120px;
+    margin-bottom: 0px;
+}
+.lhr{
+    position: relative;
+    left: 160px;
+    margin-bottom: 0px;
+}
+.links{
+    background-color: lightcyan;
+}
+.school{
+    text-decoration: none;
+}
+.sports{
+    text-decoration: none;
+    position: relative;
+    left: 90px;
+}
+.achievments{
+    text-decoration: none;
+    position: relative;
+    left: 180px;
+}
+.app{
+    text-decoration: none;
+    position: relative;
+    left: 270px;
+}
+.school{
+    text-decoration: none;
+}
+.school{
+    text-decoration: none;
+}
+.up-text{
+    position: relative;
+    bottom: 30px;
+    left: 200px;
+}
+.text{
+    position: relative;
+    bottom: 40px;
+}
+.submit{
+    position: relative;
+    bottom: 40px;
+    left: 500px;
+}
+}
+@media screen and (max-width: 750px){
+    .body{
+        background: #2722;
+        font: bold;
+    }
+    .Glory{
+        font-family: 'Goudy Stout Regular';
+        text-align: center;
+        font-size: medium;
+        color: darkslategray;
+    }
+    .description{
+        font-family: 'AR DELANEY Medium';
+        font-size: small;
+        text-align: center;
+        border: 3px solid orangered;
+        margin-right: 60px;
+        margin-left: 50px;
+        border-radius: 6px;
+        padding-top: 5px;
+        color: black;
+    }
+    .ddiv{
+        padding-bottom: 69px;
+    }
+    .main{
+        font-family: 'Berlin Sans FB';
+        font-style: bold;
+        color: #22323c;
+        position: relative;
+        bottom: 80px;
+    }
+    .since{
+        text-align: center;
+        margin-left: 290px;
+        position: relative;
+        bottom: 5px;
+        color: darkslategray;
+        font-family: 'cooper black';
+    }
+    .idhr{
+        position: relative;
+        bottom: 76px;
+    }
+    .admition{
+        color: #008b8b;
+        background: linear-gradient(goldenrod, gold);
+        border: 2px azure solid;
+        border-radius: 5px;
+    }
+    .admition:hover{
+        color: dodgerblue;
+    }
+    .admition:visited{
+        color: linear-gradient(#00ffb3, #008000, #0000ff, alpha);
+        border: 2px azure solid;
+        border-radius: 5px;
+    }
+    .admition:active{
+        color: blue;
+    }
+    .secondbody{
+        position: relative;
+        bottom: 69px;
+        font-family: 'Berlin Sans FB';
+    }
+    n{
+       color: #ff0000;
+    }
+    .shr{
+        position: relative;
+        bottom: 50px;
+    }
+    .numbers{
+        position: relative;
+        bottom: 60px;
+        font-family: 'AR ESSENCE Medium';
+        left: 220px;
+    }
+    .nhr{
+        position: relative;
+        bottom: 69px;
+        left: 182px;
+    }
+    .contact-nums{
+        position: relative;
+        bottom: 69px;
+    }
+    .phone{
+        color: brown;
+    }
+    .end{
+        position: relative;
+        left: 120px;
+        margin-bottom: 0px;
+    }
+    .lhr{
+        position: relative;
+        left: 160px;
+        margin-bottom: 0px;
+    }
+    .links{
+        background-color: lightcyan;
+    }
+    .school{
+        text-decoration: none;
+    }
+    .sports{
+        text-decoration: none;
+        position: relative;
+        left: 90px;
+    }
+    .achievments{
+        text-decoration: none;
+        position: relative;
+        left: 180px;
+    }
+    .app{
+        text-decoration: none;
+        position: relative;
+        left: 270px;
+    }
+    .school{
+        text-decoration: none;
+    }
+    .school{
+        text-decoration: none;
+    }
+    .up-text{
+        position: relative;
+        bottom: 30px;
+        left: 200px;
+    }
+    .text{
+        position: relative;
+        bottom: 40px;
+    }
+    .submit{
+        position: relative;
+        bottom: 40px;
+        left: 500px;
+    }    
+}
+@media screen and (max-width: 1450px){
+    
+}
